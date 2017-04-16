@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("dev1")
+	fmt.Println("dev2")
 }
